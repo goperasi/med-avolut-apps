@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "med.avolut"
+    namespace "logbookorthouns2023.app.id"
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "med.avolut"
+        applicationId "logbookorthouns2023.app.id"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

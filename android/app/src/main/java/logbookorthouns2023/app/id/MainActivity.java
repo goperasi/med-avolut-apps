@@ -1,4 +1,4 @@
-package med.avolut;
+package logbookorthouns2023.app.id;
 
 import com.getcapacitor.BridgeActivity;
 
